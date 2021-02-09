@@ -12,13 +12,13 @@ The techniques used in here have been inspired and adapted from [the fast.ai mac
 
 Since we already have a dataset, we'll approach the problem with the following machine learning modelling framework.
 
-| <img src="../images/ml101-6-step-ml-framework.png" width=500/> | 
+![Screenshot](ml101-6-step-ml-framework.png)
 |:--:| 
 | 6 Step Machine Learning Modelling Framework ([read more](https://whimsical.com/9g65jgoRYTxMXxDosndYTB)) |
 
 To work through these topics, we'll use pandas, Matplotlib and NumPy for data anaylsis, as well as, Scikit-Learn for machine learning and modelling tasks.
 
-| <img src="../images/supervised-projects-6-step-ml-framework-tools-highlight.png" width=500/> | 
+![Screenshot](supervised-projects-6-step-ml-framework-tools-highlight.png)
 |:--:| 
 | Tools which can be used for each step of the machine learning modelling process. |
 
