@@ -36,6 +36,26 @@ One of the most common ways to do this, is to create a data dictionary.
 
 For this dataset, Kaggle provide a data dictionary which contains information about what each attribute of the dataset means. You can download this file directly from the Kaggle competition page (account required) or view it on Google Sheets.
 
-With all of this being known, let's get started!
 
-First, we'll import the dataset and start exploring. Since we know the evaluation metric we're trying to minimise, our first goal will be building a baseline model and seeing how it stacks up against the competition.
+## Run
+### Installation Requirments
+
+1) This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
+
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
+  
+RUN : 
+```bash
+jupyter notebook End-to-End-bluebook-bulldozer-price-regression.ipynb
+```
+
+This will open the Jupyter Notebook software and project file in your browser.
+
+
